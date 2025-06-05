@@ -1,5 +1,5 @@
-# example-module
-An example module for sus93. Source code at `example-module.js`.
+# Netscape Navigator
+TheOldNet's Netscape Simulator ported to Windows 93, source code can be found at `netscapenavigator.js`.
 
 ## Installation
-You can install example-module with `sus93 install example-module`.
+You can install netscapenavigator with `sus93 install netscapenavigator`.
